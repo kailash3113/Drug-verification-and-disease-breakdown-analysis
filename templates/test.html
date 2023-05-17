@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<head><title>Result page</title></head>    
+<style>
+body{
+    background-image: url('C:/Users/KAILASH/Desktop/SR Project/py/static/images/html-color-codes-color-tutorials-hero.jpg');
+}
+
+h1 {
+    color: #009879;
+    font-size: 50px;
+    font-family: "Times New Roman", Times, serif;
+     text-align: center;
+}
+.styled-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.50);
+}
+.styled-table thead tr {
+    background-color: #009879;
+    color: #ffffff;
+    text-align: left;
+}
+.styled-table th,
+.styled-table td {
+    padding: 12px 15px;
+}
+.styled-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+.styled-table tbody tr:last-of-type {
+    border-bottom: 2px solid #009879;
+}
+.styled-table tbody tr.active-row {
+    font-size: 16px;
+    font-weight: bold;
+    color: #009879;
+}
+</style>
+<body>
+      <h1>The result of Drug Verification</h1>
+      <div style = "position:absolute; left:170px; top:200px; ">
+<table class = "styled-table">
+    <thead>
+        <tr>
+            <th>HEADINGS</th>
+            <th>DETAILS</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="active-row">
+            <td>Unique_identification_number</td>
+            <td>{{result['Unique_identification_number']}}</td>
+        </tr>
+        <tr class="active-row">
+            <td>name_of_the_drug</td>
+            <td>{{result['name_of_the_drug']}}</td>
+        </tr>
+        <tr class="active-row" >
+            <td>Manufacture_details</td>
+            <td>{{result['Manufacture_details']}}</td>
+        </tr>
+        <tr class="active-row">
+            <td>Expire_date</td>
+            <td>{{result['Expire_date']}}</td>
+        </tr>
+        <tr class="active-row">
+            <td>Toll_free_number</td>
+            <td>{{result['Toll_free_number']}}</td>
+        </tr>
+        <tr class="active-row">
+            <td>Batch_No</td>
+            <td>{{result['Batch_No']}}</td>
+        </tr>
+
+    </tbody>
+</table>
+</div>
+</body>
+</html>

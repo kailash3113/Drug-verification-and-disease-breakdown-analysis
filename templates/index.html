@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Drug Verification</title>
+    <link rel="icon" href="{{ url_for('static' , filename = "images/srlogo.png")}}">
+    <link rel="stylesheet" href="{{ url_for('static' , filename = "css/index.css")}}">
+</head>
+<body>
+    <div class="main_banner">
+     <div class="left_container">
+        <img src="{{ url_for('static' , filename = "images/srimg2.png")}}" alt="" width="100%" height="700px">
+        <div class="use_container">
+         <h4>FOLLOW THE BELOW STEPS TO USE THE VERIFICATION CODE :</h4>
+         <ul>
+            <li>Copy the verification code from the pdf of the respective medicine and paste here..</li>
+            <li>Click the submit button.</li>
+            <li>Compare the unique identificaation number displayed on the website and printed on the drug strip.</li>
+           </ul>
+        </div>
+     </div>
+     <div class="right_container">
+        <h2 class="drug">DRUG VERIFICATION</h2>
+        <div class="heading">
+           <h3> Tips for Safe Medication Use : </h3>
+           <ul>
+            <li>Store medications in a cool, dry place away from sunlight, and out of reach of children and pets.</li>
+            <li>Follow the dosage instructions provided by your healthcare provider or pharmacist. Do not take more than the recommended dose.</li>
+            <li>Take medication with water or as directed by your healthcare provider. Do not crush or break tablets or capsules unless directed to do so by your healthcare provider.</li>
+            <li>Do not share medications with others. Medications that are safe for one person may be harmful to another.</li>
+            <li>If you experience any unusual symptoms or side effects after taking a medication, contact your healthcare provider immediately.</li>
+            <li>Dispose of medications properly. Do not flush them down the toilet or throw them in the trash. Check with your local pharmacy or healthcare provider for proper disposal methods.</li>
+           </ul>
+        </div>
+        <div class="text_box">
+            <form action="" method=POST>
+              VERIFICATION CODE : <input type="text" placeholder="Enter the verification code...." id="vr_code" name = "vr_code">
+              <button class="btn" onclick="verification_code()" type="submit">Submit</button> 
+            </form>
+        </div>
+
+     </div>
+    </div>
+    <script src="js/index.js"></script>
+</body>
+</html>
