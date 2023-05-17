@@ -1,0 +1,6 @@
+ecdsa==0.18.0
+firebase_admin==6.0.1
+Flask==1.1.2
+numpy==1.22.4
+opencv_python==4.6.0.66
+qrcode==7.4.2
