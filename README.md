@@ -12,29 +12,37 @@ For this project, we have used the Cofsil drug to verify its authenticity. The d
 
 We have created a dynamic QR code for tracking the scanning activities of the user. The QR code contains all the information about the drug, like the
 
-*Medical drug description
+* Medical drug description
 
-*Ingredients used in the drug, uses
+* Ingredients used in the drug, uses
 
-*How to use (the procedure for using the drug or equipment)
+* How to use (the procedure for using the drug or equipment)
 
-*Safety information, YouTube
+* Safety information, YouTube
 
-*Like how to use
+* Like how to use
 
-*Expiration date
+* Expiration date
 
-*Batch number
+* Batch number
 
-*Verification website link
+* Verification website link
 
-*Toll-free number
+* Toll-free number
 
-*Verification code
+* Verification code
 
-*Manufacture details
+* Manufacture details
 
-*Email
+* Email
 
-*How to use the verification code
+* How to use the verification code
+
+The above-mentioned details are written inside the pdf, and further authentication of the medical will be done once after entering the verification website that is given inside the pdf. The sample pdf format is given below:
+
+<img src="https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/assets/76155912/b31edad4-ca16-4a0d-946c-0ceb6f92897b" height=250 width=250>
+
+<img src="https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/assets/76155912/f35a4974-4603-486a-bbee-ff86c59ab348" height=250 width=250>
+
+
 
