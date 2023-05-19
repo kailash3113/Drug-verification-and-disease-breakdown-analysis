@@ -57,4 +57,17 @@ The architecture diagram and process flow of the project as follows:
 
 ![Google Fire Store](https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/assets/76155912/5ed192fd-6ccf-4055-aac6-1780492ce50d)
 
+Screenshot of web app and result of obtained:
+
+![Google Fire Store](https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/assets/76155912/2f1a5904-653b-4b2e-915f-a2c71dec1aca)
+
+The web app is developed using Flask server for backend and for front end development we have used HTML, CSS, JS. For data storing and retrival we have uesd google firestore - GFB. The website is locally hosted on 5000 port.
+
+The result of the web app, once after entering the correct verification code:
+
+![S](https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/assets/76155912/0fdfbae6-84d3-429f-9fb6-ce45c274f6f0)
+
+The result of hte web app if the verification code is incorrect:
+
+![Screenshot 2023-05-19 120658](https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/assets/76155912/e6c97887-c8d0-4b11-9f02-e413e50649b4)
 
