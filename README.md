@@ -9,4 +9,4 @@ Presently, there is no standard method for verifying whether a drug is genuine o
 For this project, we have used the Cofsil drug to verify its authenticity. The drug strip that is used for this project is displayed below:
 
 
-<img src="https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/assets/76155912/49a53e03-2b52-4690-b6e6-58f29526eed0" width=250, height=200>
+<img src="https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/assets/76155912/49a53e03-2b52-4690-b6e6-58f29526eed0" width=300, height=300>
