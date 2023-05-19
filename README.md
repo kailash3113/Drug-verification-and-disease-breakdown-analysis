@@ -40,9 +40,9 @@ We have created a dynamic QR code for tracking the scanning activities of the us
 
 The above-mentioned details are written inside the pdf, and further authentication of the medical will be done once after entering the verification website that is given inside the pdf. The sample pdf format is given below:
 
-<img src="https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/assets/76155912/b31edad4-ca16-4a0d-946c-0ceb6f92897b" height=250 width=250>
+<img src="https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/assets/76155912/b31edad4-ca16-4a0d-946c-0ceb6f92897b" height=700 width=700>
 
-<img src="https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/assets/76155912/f35a4974-4603-486a-bbee-ff86c59ab348" height=250 width=250>
+<img src="https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/assets/76155912/f35a4974-4603-486a-bbee-ff86c59ab348" height=700 width=700>
 
 
 
