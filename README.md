@@ -71,3 +71,7 @@ The result of hte web app if the verification code is incorrect:
 
 ![Screenshot 2023-05-19 120658](https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/assets/76155912/e6c97887-c8d0-4b11-9f02-e413e50649b4)
 
+The google drive link of the working model of web app is given below:
+
+https://drive.google.com/file/d/1rYQ3mJgJttsr5yvIz6U8oMMpWDRs-3a6/view?usp=sharing
+
