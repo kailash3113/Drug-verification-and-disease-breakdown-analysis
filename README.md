@@ -1,9 +1,5 @@
 # Drug-verification-and-disease-breakdown-analysis
-<style>
-body {
-  text-align: justify;
-  }
-</style>
+
 In this project, we have created an alternative solution for drug authentication and made an analysis of disease breakdown. The techniques and procedures followed to verify the drug, as well as an analysis of disease breakdown, are explained further:
 
 <b>Current drug verification techniques used in India:</b>
@@ -55,6 +51,6 @@ This dynamic QR code will be printed on the drug strip, When the user wants to v
 
 The Dynamic QR code is developed using a third party website called <b>hovercode.com</b>:
 
-<img src='https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/assets/76155912/5995cd08-92d5-4929-848f-50b1285d5ac8' height=300 width=300>
+<img src='https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/assets/76155912/5995cd08-92d5-4929-848f-50b1285d5ac8' height=300 width=400>
 
 
