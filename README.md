@@ -53,4 +53,8 @@ The Dynamic QR code is developed using a third party website called <b>hovercode
 
 <img src='https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/assets/76155912/5995cd08-92d5-4929-848f-50b1285d5ac8' height=300 width=400>
 
+The architecture diagram and process flow of the project as follows:
+
+![Google Fire Store](https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/assets/76155912/5ed192fd-6ccf-4055-aac6-1780492ce50d)
+
 
