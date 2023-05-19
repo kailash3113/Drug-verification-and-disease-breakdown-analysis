@@ -44,9 +44,12 @@ The above-mentioned details are written inside the pdf, and further authenticati
 
 <img src="https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/assets/76155912/f35a4974-4603-486a-bbee-ff86c59ab348" height=700 width=700>
 
+
 This dynamic QR code will be printed on the drug strip, When the user wants to verify the drug, the QR code has to be scanned. After scanning the QR code, a PDF will be automatically downloaded, and all the information mentioned above will be shown. A drug strip after applying the QR code looks like this:
 
 <img src="https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/assets/76155912/bd512d56-aad7-44a9-9800-6bdddaeacb9f" height=300 weidth=300 >
+
+<b>The Dynamic QR code is developed using a third party website called</b> 
 
 
 
