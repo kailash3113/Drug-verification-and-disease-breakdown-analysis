@@ -1,5 +1,9 @@
 # Drug-verification-and-disease-breakdown-analysis
-
+<style>
+body {
+  text-align: justify;
+  }
+</style>
 In this project, we have created an alternative solution for drug authentication and made an analysis of disease breakdown. The techniques and procedures followed to verify the drug, as well as an analysis of disease breakdown, are explained further:
 
 <b>Current drug verification techniques used in India:</b>
