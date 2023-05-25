@@ -55,11 +55,11 @@ The Dynamic QR code is developed using a third party website called <b>hovercode
 
 The architecture diagram and process flow of the project as follows:
 
-![Google Fire Store](https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/assets/Google Fire Store.png)
+![Google Fire Store](https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/blob/main/assets/Google%20Fire%20Store.png)
 
 Screenshot of web app and result of obtained:
 
-![wapp](https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/assets/wapp.png)
+![wapp](https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/blob/main/assets/wapp.png)
 
 The web app is developed using Flask server for backend and for front end development we have used HTML, CSS, JS. For data storing and retrival we have uesd google firestore - GFB. The website is locally hosted on 5000 port.
 
@@ -69,7 +69,7 @@ The result of the web app, once after entering the correct verification code:
 
 The result of hte web app if the verification code is incorrect:
 
-![Screenshot 2023-05-19 120658](https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/assets/Screenshot 2023-05-19 120658.png)
+![Screenshot 2023-05-19 120658](https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/blob/main/assets/Screenshot%202023-05-19%20120658.png)
 
 The google drive link of the working model of web app is given below:
 
