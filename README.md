@@ -51,7 +51,7 @@ This dynamic QR code will be printed on the drug strip, When the user wants to v
 
 The Dynamic QR code is developed using a third party website called <b>hovercode.com</b>:
 
-<img src='https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/assets/qr.png' height=300 width=400>
+<img src='https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/blob/main/assets/qr.png' height=300 width=400>
 
 The architecture diagram and process flow of the project as follows:
 
@@ -65,7 +65,7 @@ The web app is developed using Flask server for backend and for front end develo
 
 The result of the web app, once after entering the correct verification code:
 
-![S](https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/assets/S.png)
+![S](https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/blob/main/assets/S.png)
 
 The result of hte web app if the verification code is incorrect:
 
