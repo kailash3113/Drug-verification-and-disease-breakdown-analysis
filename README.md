@@ -40,36 +40,36 @@ Presently, there is no standard method for verifying whether a drug is genuine o
 
 The above-mentioned details are written inside the pdf, and further authentication of the medical will be done once after entering the verification website that is given inside the pdf. The sample pdf format is given below:
 
-<img src="https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/assets/76155912/b31edad4-ca16-4a0d-946c-0ceb6f92897b" height=700 width=700>
+<img src="https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/blob/main/assets/1.png" height=700 width=700>
 
-<img src="https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/assets/76155912/f35a4974-4603-486a-bbee-ff86c59ab348" height=700 width=700>
+<img src="https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/blob/main/assets/2.png" height=700 width=700>
 
 
 This dynamic QR code will be printed on the drug strip, When the user wants to verify the drug, the QR code has to be scanned. After scanning the QR code, a PDF will be automatically downloaded, and all the information mentioned above will be shown. A drug strip after applying the QR code looks like this:
 
-<img src="https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/assets/76155912/bd512d56-aad7-44a9-9800-6bdddaeacb9f" height=300 weidth=300 >
+<img src="https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/blob/main/assets/WhatsApp%20Image%202023-05-09%20at%205.38.08%20PM.jpeg" height=300 weidth=300 >
 
 The Dynamic QR code is developed using a third party website called <b>hovercode.com</b>:
 
-<img src='https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/assets/76155912/5995cd08-92d5-4929-848f-50b1285d5ac8' height=300 width=400>
+<img src='https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/assets/qr.jpeg' height=300 width=400>
 
 The architecture diagram and process flow of the project as follows:
 
-![Google Fire Store](https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/assets/76155912/5ed192fd-6ccf-4055-aac6-1780492ce50d)
+![Google Fire Store](https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/assets/Google Fire Store.png)
 
 Screenshot of web app and result of obtained:
 
-![Google Fire Store](https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/assets/76155912/2f1a5904-653b-4b2e-915f-a2c71dec1aca)
+![wapp](https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/assets/wapp.jpeg)
 
 The web app is developed using Flask server for backend and for front end development we have used HTML, CSS, JS. For data storing and retrival we have uesd google firestore - GFB. The website is locally hosted on 5000 port.
 
 The result of the web app, once after entering the correct verification code:
 
-![S](https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/assets/76155912/0fdfbae6-84d3-429f-9fb6-ce45c274f6f0)
+![S](https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/assets/S.jpeg)
 
 The result of hte web app if the verification code is incorrect:
 
-![Screenshot 2023-05-19 120658](https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/assets/76155912/e6c97887-c8d0-4b11-9f02-e413e50649b4)
+![Screenshot 2023-05-19 120658](https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/assets/Screenshot 2023-05-19 120658.jpeg)
 
 The google drive link of the working model of web app is given below:
 
