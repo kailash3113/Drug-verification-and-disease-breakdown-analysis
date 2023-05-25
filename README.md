@@ -8,7 +8,7 @@ Presently, there is no standard method for verifying whether a drug is genuine o
 
 <b>For this project, we have used the Cofsil drug to verify its authenticity. The drug strip that is used for this project is displayed below:</b>
 
-<img src="https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/assets/76155912/49a53e03-2b52-4690-b6e6-58f29526eed0" width=300, height=300>
+<img src="https://github.com/kailash3113/Drug-verification-and-disease-breakdown-analysis/blob/main/assets/WhatsApp%20Image%202023-05-09%20at%205.37.05%20PM.jpeg" width=300, height=300>
 
 <b>We have created a dynamic QR code for tracking the scanning activities of the user. The QR code contains all the information about the drug, like the</b>
 
